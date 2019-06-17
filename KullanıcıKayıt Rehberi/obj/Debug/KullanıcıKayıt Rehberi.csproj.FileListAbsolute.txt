@@ -1,0 +1,9 @@
+c:\users\fadime acikgoz\documents\visual studio 2015\Projects\KullanıcıKayıt Rehberi\KullanıcıKayıt Rehberi\bin\Debug\KullanıcıKayıt Rehberi.exe.config
+c:\users\fadime acikgoz\documents\visual studio 2015\Projects\KullanıcıKayıt Rehberi\KullanıcıKayıt Rehberi\bin\Debug\KullanıcıKayıt Rehberi.exe
+c:\users\fadime acikgoz\documents\visual studio 2015\Projects\KullanıcıKayıt Rehberi\KullanıcıKayıt Rehberi\bin\Debug\KullanıcıKayıt Rehberi.pdb
+c:\users\fadime acikgoz\documents\visual studio 2015\Projects\KullanıcıKayıt Rehberi\KullanıcıKayıt Rehberi\obj\Debug\KullanıcıKayıt_Rehberi.Form1.resources
+c:\users\fadime acikgoz\documents\visual studio 2015\Projects\KullanıcıKayıt Rehberi\KullanıcıKayıt Rehberi\obj\Debug\KullanıcıKayıt_Rehberi.Properties.Resources.resources
+c:\users\fadime acikgoz\documents\visual studio 2015\Projects\KullanıcıKayıt Rehberi\KullanıcıKayıt Rehberi\obj\Debug\KullanıcıKayıt Rehberi.csproj.GenerateResource.Cache
+c:\users\fadime acikgoz\documents\visual studio 2015\Projects\KullanıcıKayıt Rehberi\KullanıcıKayıt Rehberi\obj\Debug\KullanıcıKayıt Rehberi.exe
+c:\users\fadime acikgoz\documents\visual studio 2015\Projects\KullanıcıKayıt Rehberi\KullanıcıKayıt Rehberi\obj\Debug\KullanıcıKayıt Rehberi.pdb
+c:\users\fadime acikgoz\documents\visual studio 2015\Projects\KullanıcıKayıt Rehberi\KullanıcıKayıt Rehberi\obj\Debug\KullanıcıKayıt Rehberi.csprojResolveAssemblyReference.cache
